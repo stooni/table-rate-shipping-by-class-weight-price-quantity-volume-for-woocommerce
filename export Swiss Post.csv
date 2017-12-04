@@ -1,0 +1,23 @@
+zone,continent,country,state,postcode,class,weight,price,quantity,volume,cost,comment,active
+Schweiz,,"LI
+CH",,,post-schweiz,0-2,,,,9,"PostPac Priority bis 2 Kg",1
+,,,,,post-schweiz,2-5,,,,11,"PostPac Priority bis 5 Kg",1
+,,,,,post-schweiz,5-10,,,,12,"PostPac Priority bis 10 Kg",1
+,,,,,post-schweiz,10-20,,,,18,"PostPac Priority bis 20 Kg",1
+,,,,,post-schweiz,20-30,,,,25,"PostPac Priority bis 30 Kg",1
+,,,,,post-schweiz,30,,,,31,"PostPac Priority Sperrgut",1
+Schweiz,,"LI
+CH",,,post-schweiz,0-2,,,,7,"PostPac Economy bis 2 Kg",1
+,,,,,post-schweiz,2-5,,,,9,"PostPac Economy bis 5 Kg",1
+,,,,,post-schweiz,5-10,,,,10,"PostPac Economy bis 10 Kg",1
+,,,,,post-schweiz,10-20,,,,15,"PostPac Economy bis 20 Kg",1
+,,,,,post-schweiz,20-30,,,,22,"PostPac Economy bis 30 Kg",1
+,,,,,post-schweiz,30,,,,29,"PostPac Economy Sperrgut",1
+Schweiz,,"LI
+CH",,,post-schweiz,0-1,,,,16,"Swiss-Express «Mond»  bis 1 Kg",1
+,,,,,post-schweiz,1-2,,,,18,"Swiss-Express «Mond»  bis 2 Kg",1
+,,,,,post-schweiz,2-5,,,,20,"Swiss-Express «Mond» bis 5 Kg",1
+,,,,,post-schweiz,5-10,,,,24,"Swiss-Express «Mond»  bis 10 Kg",1
+,,,,,post-schweiz,10-20,,,,27,"Swiss-Express «Mond»  bis 20 Kg",1
+,,,,,post-schweiz,20-30,,,,30,"Swiss-Express «Mond»  bis 30 Kg",1
+,,,,,post-schweiz,30,,,,37,"Swiss-Express «Mond»  Sperrgut",1
