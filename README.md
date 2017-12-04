@@ -5,3 +5,11 @@ https://codecanyon.net/item/table-rate-shipping-by-class-weight-price-quantity-v
 Table Rate Shipping by Class, Weight, Price, Quantity & Volume for WooCommerce Plugin is used to easily setup shipping charges based on shipping class, total weight, total price, total quantity and total volume of products in cart.
 
 Schweizer Post Daten mit Gewicht und Grösse! - Für Woocommerce
+
+Install Plugin
+Activate Plugin
+Versand > Versandzonen
+Create Schweiz
+Import Table Rate Shipping 
+Import Export....csv Datei
+
